@@ -49,7 +49,6 @@ You stop following trends and start leading them with less effort, more results.
 
 **[CLICK HERE TO TRY VIRLO AI FOR FREE](http://virlo.ai/?ref=regnow01)**
 
-`<iframe width="560" height="315" src="https://www.youtube.com/embed/NHGET05bXio?si=0hkLfv6CPb2Wj_Qn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`
 
 **_We'll walk through the dashboard, show how to search for trends, and how to use the plan credits for audio and video generation.
 
@@ -164,5 +163,6 @@ Start creating smarter, not harder. Verlo AI makes it easy to win.
 We have added the link for the site down below. Do click and register your plan on our site.
 
 Thanks. We hope you enjoyed this video. If you did, don't forget to like, share, and subscribe to our channel.
+
 
 
