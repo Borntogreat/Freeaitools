@@ -14,7 +14,7 @@ Meet ****Virlo AI****, the all-in-one tool that's helping creators grow faster, 
 
 
 
-**### [What Is Virllo AI?](http://virlo.ai/?ref=regnow01)**
+**### [What Is Virlo AI?](http://virlo.ai/?ref=regnow01)**
 
 Virlo AI is an all-in-one platform made for short form video creators who want to grow faster without wasting time. It combines everything you need: trend spotting, content planning, and audience insights into one simple tool.
 
@@ -88,7 +88,7 @@ Virlo AI also connects you with other creators through a built-in community wher
 
 
 **[CLICK HERE TO TRY VIRLO AI FOR FREE](http://virlo.ai/?ref=regnow01)**
-## Virllo AI Pricing Plans
+## Virlo AI Pricing Plans
 
 Virllo AI offers four plans designed to fit creators at every level.
 
@@ -163,6 +163,7 @@ Start creating smarter, not harder. Verlo AI makes it easy to win.
 We have added the link for the site down below. Do click and register your plan on our site.
 
 Thanks. We hope you enjoyed this video. If you did, don't forget to like, share, and subscribe to our channel.
+
 
 
 
